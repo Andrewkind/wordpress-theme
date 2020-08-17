@@ -1,14 +1,13 @@
 /*
-Theme Name: Modus Oper Andy
-Theme URI: http://localhost
-Author: Andrew Kind
-Author URI: http://wordpress.org/
-Description: An example WordPress theme - boilerplate
+Theme Name: TECHCareers WordPress Theme (2020)
+Theme URI: https://techcareers.ca
+Author: Warren Uhrich
+Author URI: https://WarrenUhrich.ca
+Description: A test WordPress theme, ready to be used as a boilerplate to kick off new themes quickly!
 Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: andrewkind
+Text Domain: techcareers
 
-This theme, like WordPress, is licensed under the GPL.
-Use it to make something cool, have fun, and share what you've learned with others.
+We need a style.css for our theme to be recognized by WordPress, it is expecting
+this file for information about the theme (it reads the above info via a PHP
+script written by the WordPress team!)
 */
